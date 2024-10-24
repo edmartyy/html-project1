@@ -38,6 +38,8 @@ body {
 a{
   font-size: 40px
 }
-a{
-  background-color: whitesmoke;
+a:hover{
+  background-color: white;
+  font-size: 40px;
 }
+
