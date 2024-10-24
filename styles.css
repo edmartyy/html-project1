@@ -1,0 +1,43 @@
+body {
+  margin-left: 0;
+  margin-top: 5%;
+  padding: 0;
+  background-color: #f0f0f0;
+  background-image: url(back.jpg);
+  font-family: Arial, sans-serif; 
+}
+
+.picture {
+  display: inline-block;
+  margin: 5px; 
+  text-align: center;
+  margin-left: 5%;
+}
+
+.picture img {
+  width: 400px;
+  height: 300px;
+  display: block;
+  margin: 0 auto; 
+  border-radius: 10px;
+  border: solid white 5px;
+}
+
+.name {
+  margin-top: 8px;
+  font-size: 50px;
+  font-weight: bold;
+  margin: 20px;
+  color: blue
+ 
+}
+.restaurant{
+  margin-bottom: 5%;
+  margin-left: 5px;
+}
+a{
+  font-size: 40px
+}
+a{
+  background-color: whitesmoke;
+}

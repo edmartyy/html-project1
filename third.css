@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif; 
+    font-weight: normal;
+    font-size: 16px;
+    color:black;
+    background-color: #ECDFCC;
+    text-align: left;
+}
+img {
+    border: 5px solid black;
+    width: 400px;
+    height: 350px;  
+    text-align: center;
+    padding: 20px;
+    background-color: orange;
+    margin: 0px 40px;
+}
+a:hover{
+    background-color: white;
+    font-size: 18px;
+}
+.img1:hover{
+    content: url(fried-ice-cream.jpg);
+}
+.img2:hover{
+    content: url(Strawberry.jpg);
+}
